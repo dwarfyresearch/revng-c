@@ -64,8 +64,6 @@ Types:
   - ID: 1870
     Kind: CABIFunctionType
     ABI: SystemV_x86_64
-    ReturnType:
-      UnqualifiedType: "/Types/520-PrimitiveType"
     Arguments:
       - Index: 0
         Type:
